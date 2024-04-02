@@ -26,9 +26,9 @@ def read_file():
 def append_to_file():
     try:
         with open("my_file.txt", "a") as file:
-            file.write("This is line 4\n")
-            file.write("67890\n")
-            file.write("Line 6 with additional content\n")
+            file.write("This is line 7\n")
+            file.write("78432\n")
+            file.write("Line 8 with additional content\n")
     except FileNotFoundError:
         print("Error: File not found.")
     except PermissionError:

@@ -1,6 +1,6 @@
 This is line 1
 12345
 Line 3 with some special characters: @#$%
-This is line 4
-67890
-Line 6 with additional content
+This is line 7
+78432
+Line 8 with additional content
